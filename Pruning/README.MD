@@ -1,7 +1,7 @@
 ######  PRUNING TECHNIQUES
 -------------------------------------------------------
 What is pruning?
-A techniques of removing unimportant parameters(weights, biases,  acivations) of deep neural network.
+- A techniques of removing unimportant parameters(weights, biases,  acivations) of deep neural network.
 --------------------------------------------------------
 Why?
 1. Reduction in storage.

@@ -1,4 +1,4 @@
 ###### Weight Lightning Techniques
 -------------------------------------------------------
-Pruning
-Quantization
+- Pruning
+- Quantization
