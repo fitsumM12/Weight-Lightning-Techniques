@@ -10,11 +10,8 @@ Why?
 
 Types of pruning:
 1. Weight pruning 
-2. Neuron pruning 
-
-
-
-
+2. Filter Pruning
+3. Neuron pruning 
 
 Code Snippet to get the weight details of each layers:
 ----------------------------------------------------------
