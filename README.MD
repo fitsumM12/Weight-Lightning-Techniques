@@ -2,3 +2,4 @@
 -------------------------------------------------------
 - Pruning
 - Quantization
+- Knowledge  Distillation
