@@ -63,8 +63,8 @@ To experiment with these techniques, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/weight-lightning-techniques.git
-   cd weight-lightning-techniques
+   git clone https://github.com/fitsumM12/Weight-Lightning-Techniques.git
+   cd Weight-Lightning-Techniques
    ```
 2. Install dependencies:
    ```bash
